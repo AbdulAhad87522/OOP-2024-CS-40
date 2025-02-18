@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\university\\semester 2\\OOPs lab\\week 2\\challange2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D177801-C411-4897-9151-958245B70B52}|challange2\\challange2.csproj|e:\\university\\semester 2\\oops lab\\week 2\\challange2\\challange2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D177801-C411-4897-9151-958245B70B52}|challange2\\challange2.csproj|solutionrelative:challange2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D177801-C411-4897-9151-958245B70B52}|challange2\\challange2.csproj|E:\\university\\semester 2\\OOPs lab\\week 2\\challange2\\challange2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D177801-C411-4897-9151-958245B70B52}|challange2\\challange2.csproj|solutionrelative:challange2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "product.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\week 2\\challange2\\challange2\\product.cs",
+              "RelativeDocumentMoniker": "challange2\\product.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\week 2\\challange2\\challange2\\product.cs",
+              "RelativeToolTip": "challange2\\product.cs",
+              "ViewState": "AgIAAAUAAAAgZmZmZmYkwBYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:19:55.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\week 2\\challange2\\challange2\\Program.cs",
+              "RelativeDocumentMoniker": "challange2\\Program.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\week 2\\challange2\\challange2\\Program.cs",
+              "RelativeToolTip": "challange2\\Program.cs",
+              "ViewState": "AgIAACMAAACAzMzMzMwwwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:17:28.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

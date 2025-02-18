@@ -17,7 +17,6 @@ namespace self_assessment_task1_lab_2
             public Transaction()
             {
                 
-
             }
             public string TransactionID;
             public string ProductName;
