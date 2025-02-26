@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\university\\semester 2\\OOPs lab\\week 5\\selfassessment(UAMS)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDEA0E1-D5DA-417E-93E6-8B7C16E66186}|selfassessment(UAMS)\\selfassessment(UAMS).csproj|E:\\university\\semester 2\\OOPs lab\\week 5\\selfassessment(UAMS)\\selfassessment(uams)\\ui\\subjectui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDEA0E1-D5DA-417E-93E6-8B7C16E66186}|selfassessment(UAMS)\\selfassessment(UAMS).csproj|solutionrelative:selfassessment(uams)\\ui\\subjectui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDEA0E1-D5DA-417E-93E6-8B7C16E66186}|selfassessment(UAMS)\\selfassessment(UAMS).csproj|E:\\university\\semester 2\\OOPs lab\\week 5\\selfassessment(UAMS)\\selfassessment(uams)\\ui\\degreeprogramui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDEA0E1-D5DA-417E-93E6-8B7C16E66186}|selfassessment(UAMS)\\selfassessment(UAMS).csproj|solutionrelative:selfassessment(uams)\\ui\\degreeprogramui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDEA0E1-D5DA-417E-93E6-8B7C16E66186}|selfassessment(UAMS)\\selfassessment(UAMS).csproj|E:\\university\\semester 2\\OOPs lab\\week 5\\selfassessment(UAMS)\\selfassessment(uams)\\bl\\degreeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDEA0E1-D5DA-417E-93E6-8B7C16E66186}|selfassessment(UAMS)\\selfassessment(UAMS).csproj|solutionrelative:selfassessment(uams)\\bl\\degreeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDEA0E1-D5DA-417E-93E6-8B7C16E66186}|selfassessment(UAMS)\\selfassessment(UAMS).csproj|E:\\university\\semester 2\\OOPs lab\\week 5\\selfassessment(UAMS)\\selfassessment(uams)\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDEA0E1-D5DA-417E-93E6-8B7C16E66186}|selfassessment(UAMS)\\selfassessment(UAMS).csproj|solutionrelative:selfassessment(uams)\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDEA0E1-D5DA-417E-93E6-8B7C16E66186}|selfassessment(UAMS)\\selfassessment(UAMS).csproj|E:\\university\\semester 2\\OOPs lab\\week 5\\selfassessment(UAMS)\\selfassessment(uams)\\bl\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDEA0E1-D5DA-417E-93E6-8B7C16E66186}|selfassessment(UAMS)\\selfassessment(UAMS).csproj|solutionrelative:selfassessment(uams)\\bl\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDEA0E1-D5DA-417E-93E6-8B7C16E66186}|selfassessment(UAMS)\\selfassessment(UAMS).csproj|E:\\university\\semester 2\\OOPs lab\\week 5\\selfassessment(UAMS)\\selfassessment(uams)\\dl\\subjectdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDEA0E1-D5DA-417E-93E6-8B7C16E66186}|selfassessment(UAMS)\\selfassessment(UAMS).csproj|solutionrelative:selfassessment(uams)\\dl\\subjectdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDEA0E1-D5DA-417E-93E6-8B7C16E66186}|selfassessment(UAMS)\\selfassessment(UAMS).csproj|E:\\university\\semester 2\\OOPs lab\\week 5\\selfassessment(UAMS)\\selfassessment(uams)\\dl\\degreeprogramdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDEA0E1-D5DA-417E-93E6-8B7C16E66186}|selfassessment(UAMS)\\selfassessment(UAMS).csproj|solutionrelative:selfassessment(uams)\\dl\\degreeprogramdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDEA0E1-D5DA-417E-93E6-8B7C16E66186}|selfassessment(UAMS)\\selfassessment(UAMS).csproj|E:\\university\\semester 2\\OOPs lab\\week 5\\selfassessment(UAMS)\\selfassessment(uams)\\ui\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDEA0E1-D5DA-417E-93E6-8B7C16E66186}|selfassessment(UAMS)\\selfassessment(UAMS).csproj|solutionrelative:selfassessment(uams)\\ui\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDEA0E1-D5DA-417E-93E6-8B7C16E66186}|selfassessment(UAMS)\\selfassessment(UAMS).csproj|e:\\university\\semester 2\\oops lab\\week 5\\selfassessment(uams)\\selfassessment(uams)\\dl\\studentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDEA0E1-D5DA-417E-93E6-8B7C16E66186}|selfassessment(UAMS)\\selfassessment(UAMS).csproj|solutionrelative:selfassessment(uams)\\dl\\studentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDEA0E1-D5DA-417E-93E6-8B7C16E66186}|selfassessment(UAMS)\\selfassessment(UAMS).csproj|E:\\university\\semester 2\\OOPs lab\\week 5\\selfassessment(UAMS)\\selfassessment(uams)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDEA0E1-D5DA-417E-93E6-8B7C16E66186}|selfassessment(UAMS)\\selfassessment(UAMS).csproj|solutionrelative:selfassessment(uams)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "degreeprogramDL.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\week 5\\selfassessment(UAMS)\\selfassessment(UAMS)\\DL\\degreeprogramDL.cs",
+              "RelativeDocumentMoniker": "selfassessment(UAMS)\\DL\\degreeprogramDL.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\week 5\\selfassessment(UAMS)\\selfassessment(UAMS)\\DL\\degreeprogramDL.cs",
+              "RelativeToolTip": "selfassessment(UAMS)\\DL\\degreeprogramDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:04:22.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "degreeprogram.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\week 5\\selfassessment(UAMS)\\selfassessment(UAMS)\\BL\\degreeprogram.cs",
+              "RelativeDocumentMoniker": "selfassessment(UAMS)\\BL\\degreeprogram.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\week 5\\selfassessment(UAMS)\\selfassessment(UAMS)\\BL\\degreeprogram.cs",
+              "RelativeToolTip": "selfassessment(UAMS)\\BL\\degreeprogram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:03:58.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "degreeprogramUI.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\week 5\\selfassessment(UAMS)\\selfassessment(UAMS)\\UI\\degreeprogramUI.cs",
+              "RelativeDocumentMoniker": "selfassessment(UAMS)\\UI\\degreeprogramUI.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\week 5\\selfassessment(UAMS)\\selfassessment(UAMS)\\UI\\degreeprogramUI.cs",
+              "RelativeToolTip": "selfassessment(UAMS)\\UI\\degreeprogramUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:05:30.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "subjectUI.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\week 5\\selfassessment(UAMS)\\selfassessment(UAMS)\\UI\\subjectUI.cs",
+              "RelativeDocumentMoniker": "selfassessment(UAMS)\\UI\\subjectUI.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\week 5\\selfassessment(UAMS)\\selfassessment(UAMS)\\UI\\subjectUI.cs",
+              "RelativeToolTip": "selfassessment(UAMS)\\UI\\subjectUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:03:20.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "subjectDL.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\week 5\\selfassessment(UAMS)\\selfassessment(UAMS)\\DL\\subjectDL.cs",
+              "RelativeDocumentMoniker": "selfassessment(UAMS)\\DL\\subjectDL.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\week 5\\selfassessment(UAMS)\\selfassessment(UAMS)\\DL\\subjectDL.cs",
+              "RelativeToolTip": "selfassessment(UAMS)\\DL\\subjectDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:04:51.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "subject.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\week 5\\selfassessment(UAMS)\\selfassessment(UAMS)\\BL\\subject.cs",
+              "RelativeDocumentMoniker": "selfassessment(UAMS)\\BL\\subject.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\week 5\\selfassessment(UAMS)\\selfassessment(UAMS)\\BL\\subject.cs",
+              "RelativeToolTip": "selfassessment(UAMS)\\BL\\subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:05:13.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "student.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\week 5\\selfassessment(UAMS)\\selfassessment(UAMS)\\BL\\student.cs",
+              "RelativeDocumentMoniker": "selfassessment(UAMS)\\BL\\student.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\week 5\\selfassessment(UAMS)\\selfassessment(UAMS)\\BL\\student.cs",
+              "RelativeToolTip": "selfassessment(UAMS)\\BL\\student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:02:43.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "studentUI.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\week 5\\selfassessment(UAMS)\\selfassessment(UAMS)\\UI\\studentUI.cs",
+              "RelativeDocumentMoniker": "selfassessment(UAMS)\\UI\\studentUI.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\week 5\\selfassessment(UAMS)\\selfassessment(UAMS)\\UI\\studentUI.cs",
+              "RelativeToolTip": "selfassessment(UAMS)\\UI\\studentUI.cs",
+              "ViewState": "AgIAAAEAAADAAAAAAAAhwAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:02:28.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "studentDL.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\week 5\\selfassessment(UAMS)\\selfassessment(UAMS)\\DL\\studentDL.cs",
+              "RelativeDocumentMoniker": "selfassessment(UAMS)\\DL\\studentDL.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\week 5\\selfassessment(UAMS)\\selfassessment(UAMS)\\DL\\studentDL.cs",
+              "RelativeToolTip": "selfassessment(UAMS)\\DL\\studentDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:17:28.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\week 5\\selfassessment(UAMS)\\selfassessment(UAMS)\\Program.cs",
+              "RelativeDocumentMoniker": "selfassessment(UAMS)\\Program.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\week 5\\selfassessment(UAMS)\\selfassessment(UAMS)\\Program.cs",
+              "RelativeToolTip": "selfassessment(UAMS)\\Program.cs",
+              "ViewState": "AgIAAAcAAACAmZmZmZkuwBkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:57:06.672Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

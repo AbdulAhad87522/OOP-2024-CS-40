@@ -22,7 +22,9 @@ namespace task_2
 
                 switch(option)
                 {
+                    
                     case 1:
+                        Console.Clear();
                         Console.WriteLine("Enter the name of the member: ");
                         string name = Console.ReadLine();
                         Console.WriteLine("Enter CNIC number: ");
@@ -33,22 +35,40 @@ namespace task_2
                         list.Add(p);
                         break;
                     case 2:
-                        Console.WriteLine("Enter the name of the book.");
+                        Console.Clear();
+                        Console.WriteLine("Book Name:");
                         string book_name = Console.ReadLine();
-                        Console.WriteLine("Enter the name of author: ");
-                        string author_name = Console.ReadLine();
-                        Console.WriteLine("Enter the name of the pubblisher: ");
+
+                        int n;
+                        do
+                        {
+                            Console.WriteLine("No. Of Authors (Max 4): ");
+                        } while (!int.TryParse(Console.ReadLine(), out n) || n < 1 || n > 4);
+
+                        string[] author_name = new string[n];
+
+                        for (int i = 0; i < n; i++)
+                        {
+                            Console.Write($"Enter Author {i + 1} Name: ");
+                            author_name[i] = Console.ReadLine();
+                        }
+
+
+                        Console.WriteLine("Publisher: ");
                         string publihser = Console.ReadLine();
-                        Console.WriteLine("Enter the ISBN: ");
+                        Console.WriteLine("ISBN: ");
                         int isbn = int.Parse(Console.ReadLine());
-                        Console.WriteLine("Ente the price of the book.");
+                        Console.WriteLine("Price: ");
                         int price = int.Parse(Console.ReadLine());
-                        Console.WriteLine("Enter the year of publication: ");
+                        Console.WriteLine("Publication: ");
                         int year = int.Parse(Console.ReadLine());
                         MEMBER member = new MEMBER(book_name, author_name, publihser, isbn, price, year);
                         list.Add(member);
+
+                        Console.ReadKey();
                         break;
                     case 3:
+                        Console.Clear();
                         Console.WriteLine("Enter the title of the book: ");
                         string title = Console.ReadLine();
                         foreach(MEMBER m in list)
@@ -63,8 +83,10 @@ namespace task_2
                                 Console.WriteLine($"Year of publication: {m.Year}");
                             }
                         }
+                        Console.Clear();
                         break;
                     case 4:
+                        Console.Clear();
                         Console.WriteLine("Enter the ISBN number of the book: ");
                         isbn = int.Parse(Console.ReadLine());
                         foreach (MEMBER m in list)
@@ -78,8 +100,10 @@ namespace task_2
                                 Console.WriteLine($"Year of publication: {m.Year}");
                             }
                         }
+                        Console.Clear();
                         break;
                     case 5:
+                        Console.Clear();
                         Console.WriteLine("Enter the name you wanna search: ");
                         name = Console.ReadLine();
                         foreach (MEMBER m in list)
@@ -90,6 +114,7 @@ namespace task_2
                                 Console.WriteLine($"CNIC : {m.CNIC}");
                             }
                         }
+                        Console.Clear();
                         break;
                     case 6:
                         Console.WriteLine("Enter the name of the member you wannt to update: ");
@@ -108,6 +133,7 @@ namespace task_2
                         }
                         break;
                     case 7:
+                        Console.Clear();
                         int PRICE =0;
                         int disc_price;
                         int price_after;
@@ -164,11 +190,15 @@ namespace task_2
                                 Console.ReadKey();
                             }
                         }
+                        Console.ReadKey();
                         break;
                     case 8:
+                        Console.Clear();
                         Console.WriteLine($"Total sales came from books: {total_sale}");
+                        Console.ReadKey();
                         break;
                     case 9:
+                        Console.Clear();
                         int product;
                         foreach (MEMBER m in list)
                         {
@@ -177,6 +207,7 @@ namespace task_2
                         }
                         product = 10*list.Count;
                         Console.WriteLine($"total membership fee collected: {product}");
+                        Console.ReadKey();
                         break;
                 }
                 option = Menu();
@@ -184,6 +215,7 @@ namespace task_2
         }
         static int Menu()
         {
+            Console.Clear();
             Console.WriteLine("1.add member.");
             Console.WriteLine("2.Add a book.");
             Console.WriteLine("3.search a book by its title.");

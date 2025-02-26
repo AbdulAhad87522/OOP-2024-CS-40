@@ -9,7 +9,8 @@ namespace task_2
     internal class MEMBER
     {
         public string Book_Name;
-        public string Author_Name;
+        public string[] Author_Name;
+        public int AuthorC;
         public string Publisher_name;
         public int ISBN;
         public int Price;
@@ -17,7 +18,7 @@ namespace task_2
         public string Name;
         public string Phone;
         public long CNIC;
-        public MEMBER(string book_name, string author_name, string publihser, int isbn, int price, int year )
+        public MEMBER(string book_name, string[] author_name, string publihser, int isbn, int price, int year )
         {
             Book_Name = book_name;
             Author_Name = author_name;

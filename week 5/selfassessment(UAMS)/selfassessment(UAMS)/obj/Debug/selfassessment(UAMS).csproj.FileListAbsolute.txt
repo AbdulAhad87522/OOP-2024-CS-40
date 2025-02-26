@@ -1,0 +1,2 @@
+E:\university\semester 2\OOPs lab\week 5\selfassessment(UAMS)\selfassessment(UAMS)\obj\Debug\selfassessment(UAMS).csproj.AssemblyReference.cache
+E:\university\semester 2\OOPs lab\week 5\selfassessment(UAMS)\selfassessment(UAMS)\obj\Debug\selfassessment(UAMS).csproj.CoreCompileInputs.cache
