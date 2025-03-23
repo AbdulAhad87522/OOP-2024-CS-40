@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\university\\semester 2\\OOPs lab\\midproject(conversion)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3197376F-AC78-4D85-B08C-03D33A754A29}|midproject(conversion)\\midproject(conversion).csproj|E:\\university\\semester 2\\OOPs lab\\midproject(conversion)\\midproject(conversion)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3197376F-AC78-4D85-B08C-03D33A754A29}|midproject(conversion)\\midproject(conversion).csproj|solutionrelative:midproject(conversion)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3197376F-AC78-4D85-B08C-03D33A754A29}|midproject(conversion)\\midproject(conversion).csproj|e:\\university\\semester 2\\oops lab\\midproject(conversion)\\midproject(conversion)\\bl\\eggs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3197376F-AC78-4D85-B08C-03D33A754A29}|midproject(conversion)\\midproject(conversion).csproj|solutionrelative:midproject(conversion)\\bl\\eggs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3197376F-AC78-4D85-B08C-03D33A754A29}|midproject(conversion)\\midproject(conversion).csproj|E:\\university\\semester 2\\OOPs lab\\midproject(conversion)\\midproject(conversion)\\bl\\feed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3197376F-AC78-4D85-B08C-03D33A754A29}|midproject(conversion)\\midproject(conversion).csproj|solutionrelative:midproject(conversion)\\bl\\feed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3197376F-AC78-4D85-B08C-03D33A754A29}|midproject(conversion)\\midproject(conversion).csproj|E:\\university\\semester 2\\OOPs lab\\midproject(conversion)\\midproject(conversion)\\bl\\chicksbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3197376F-AC78-4D85-B08C-03D33A754A29}|midproject(conversion)\\midproject(conversion).csproj|solutionrelative:midproject(conversion)\\bl\\chicksbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Feed.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\midproject(conversion)\\midproject(conversion)\\BL\\Feed.cs",
+              "RelativeDocumentMoniker": "midproject(conversion)\\BL\\Feed.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\midproject(conversion)\\midproject(conversion)\\BL\\Feed.cs",
+              "RelativeToolTip": "midproject(conversion)\\BL\\Feed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T21:00:39.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "eggs.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\midproject(conversion)\\midproject(conversion)\\BL\\eggs.cs",
+              "RelativeDocumentMoniker": "midproject(conversion)\\BL\\eggs.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\midproject(conversion)\\midproject(conversion)\\BL\\eggs.cs",
+              "RelativeToolTip": "midproject(conversion)\\BL\\eggs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:59:18.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChicksBL.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\midproject(conversion)\\midproject(conversion)\\BL\\ChicksBL.cs",
+              "RelativeDocumentMoniker": "midproject(conversion)\\BL\\ChicksBL.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\midproject(conversion)\\midproject(conversion)\\BL\\ChicksBL.cs",
+              "RelativeToolTip": "midproject(conversion)\\BL\\ChicksBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:52:49.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\midproject(conversion)\\midproject(conversion)\\Program.cs",
+              "RelativeDocumentMoniker": "midproject(conversion)\\Program.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\midproject(conversion)\\midproject(conversion)\\Program.cs",
+              "RelativeToolTip": "midproject(conversion)\\Program.cs",
+              "ViewState": "AgIAABQAAACgZmZmZmYkwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:57:14.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

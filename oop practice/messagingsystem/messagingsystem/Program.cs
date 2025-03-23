@@ -26,7 +26,7 @@ namespace messagingsystem
                         //add user 
                         Muser users = UserUI.getuserinfo();
                         user.adduser(users);
-                        uss.adduser();
+                        //uss.adduser();
                         getkey();
                         break;
                     case 2:
