@@ -5,8 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using messagingsystem.BL;
 
-
-
 namespace messagingsystem.DL
 {
     internal class Userdata

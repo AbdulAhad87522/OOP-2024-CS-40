@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "E:\\university\\semester 2\\OOPs lab\\oop practice\\messagingsystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7275FA1E-DC57-4DD1-ADCC-23B72A25E8E3}|messagingsystem\\messagingsystem.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\messagingsystem\\messagingsystem\\dl\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7275FA1E-DC57-4DD1-ADCC-23B72A25E8E3}|messagingsystem\\messagingsystem.csproj|solutionrelative:messagingsystem\\dl\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7275FA1E-DC57-4DD1-ADCC-23B72A25E8E3}|messagingsystem\\messagingsystem.csproj|E:\\university\\semester 2\\OOPs lab\\oop practice\\messagingsystem\\messagingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7275FA1E-DC57-4DD1-ADCC-23B72A25E8E3}|messagingsystem\\messagingsystem.csproj|solutionrelative:messagingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7275FA1E-DC57-4DD1-ADCC-23B72A25E8E3}|messagingsystem\\messagingsystem.csproj|E:\\university\\semester 2\\OOPs lab\\oop practice\\messagingsystem\\messagingsystem\\dl\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7275FA1E-DC57-4DD1-ADCC-23B72A25E8E3}|messagingsystem\\messagingsystem.csproj|solutionrelative:messagingsystem\\dl\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7275FA1E-DC57-4DD1-ADCC-23B72A25E8E3}|messagingsystem\\messagingsystem.csproj|E:\\university\\semester 2\\OOPs lab\\oop practice\\messagingsystem\\messagingsystem\\bl\\muser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7275FA1E-DC57-4DD1-ADCC-23B72A25E8E3}|messagingsystem\\messagingsystem.csproj|solutionrelative:messagingsystem\\bl\\muser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7275FA1E-DC57-4DD1-ADCC-23B72A25E8E3}|messagingsystem\\messagingsystem.csproj|E:\\university\\semester 2\\OOPs lab\\oop practice\\messagingsystem\\messagingsystem\\ui\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7275FA1E-DC57-4DD1-ADCC-23B72A25E8E3}|messagingsystem\\messagingsystem.csproj|solutionrelative:messagingsystem\\ui\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7275FA1E-DC57-4DD1-ADCC-23B72A25E8E3}|messagingsystem\\messagingsystem.csproj|E:\\university\\semester 2\\OOPs lab\\oop practice\\messagingsystem\\messagingsystem\\dl\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7275FA1E-DC57-4DD1-ADCC-23B72A25E8E3}|messagingsystem\\messagingsystem.csproj|solutionrelative:messagingsystem\\dl\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7275FA1E-DC57-4DD1-ADCC-23B72A25E8E3}|messagingsystem\\messagingsystem.csproj|E:\\university\\semester 2\\OOPs lab\\oop practice\\messagingsystem\\messagingsystem\\dl\\maildata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7275FA1E-DC57-4DD1-ADCC-23B72A25E8E3}|messagingsystem\\messagingsystem.csproj|solutionrelative:messagingsystem\\dl\\maildata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7275FA1E-DC57-4DD1-ADCC-23B72A25E8E3}|messagingsystem\\messagingsystem.csproj|E:\\university\\semester 2\\OOPs lab\\oop practice\\messagingsystem\\messagingsystem\\ui\\mailui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7275FA1E-DC57-4DD1-ADCC-23B72A25E8E3}|messagingsystem\\messagingsystem.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\messagingsystem\\messagingsystem\\ui\\mailui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7275FA1E-DC57-4DD1-ADCC-23B72A25E8E3}|messagingsystem\\messagingsystem.csproj|solutionrelative:messagingsystem\\ui\\mailui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7275FA1E-DC57-4DD1-ADCC-23B72A25E8E3}|messagingsystem\\messagingsystem.csproj|E:\\university\\semester 2\\OOPs lab\\oop practice\\messagingsystem\\messagingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7275FA1E-DC57-4DD1-ADCC-23B72A25E8E3}|messagingsystem\\messagingsystem.csproj|solutionrelative:messagingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7275FA1E-DC57-4DD1-ADCC-23B72A25E8E3}|messagingsystem\\messagingsystem.csproj|E:\\university\\semester 2\\OOPs lab\\oop practice\\messagingsystem\\messagingsystem\\ui\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7275FA1E-DC57-4DD1-ADCC-23B72A25E8E3}|messagingsystem\\messagingsystem.csproj|solutionrelative:messagingsystem\\ui\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7275FA1E-DC57-4DD1-ADCC-23B72A25E8E3}|messagingsystem\\messagingsystem.csproj|E:\\university\\semester 2\\OOPs lab\\oop practice\\messagingsystem\\messagingsystem\\bl\\muser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7275FA1E-DC57-4DD1-ADCC-23B72A25E8E3}|messagingsystem\\messagingsystem.csproj|solutionrelative:messagingsystem\\bl\\muser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7275FA1E-DC57-4DD1-ADCC-23B72A25E8E3}|messagingsystem\\messagingsystem.csproj|E:\\university\\semester 2\\OOPs lab\\oop practice\\messagingsystem\\messagingsystem\\bl\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,68 +42,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\messagingsystem\\messagingsystem\\Program.cs",
               "RelativeDocumentMoniker": "messagingsystem\\Program.cs",
               "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\messagingsystem\\messagingsystem\\Program.cs",
               "RelativeToolTip": "messagingsystem\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAMjMzMzMqwCcAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T12:47:17.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T12:47:17.592Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Database.cs",
               "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\messagingsystem\\messagingsystem\\DL\\Database.cs",
               "RelativeDocumentMoniker": "messagingsystem\\DL\\Database.cs",
               "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\messagingsystem\\messagingsystem\\DL\\Database.cs",
               "RelativeToolTip": "messagingsystem\\DL\\Database.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAABgAAAAAfwBQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T09:36:50.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Maildata.cs",
               "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\messagingsystem\\messagingsystem\\DL\\Maildata.cs",
               "RelativeDocumentMoniker": "messagingsystem\\DL\\Maildata.cs",
               "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\messagingsystem\\messagingsystem\\DL\\Maildata.cs",
               "RelativeToolTip": "messagingsystem\\DL\\Maildata.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T12:50:41.555Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "mailUI.cs",
               "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\messagingsystem\\messagingsystem\\UI\\mailUI.cs",
               "RelativeDocumentMoniker": "messagingsystem\\UI\\mailUI.cs",
               "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\messagingsystem\\messagingsystem\\UI\\mailUI.cs",
               "RelativeToolTip": "messagingsystem\\UI\\mailUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAABAZmZmZmYtwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T12:50:58.493Z"
+              "WhenOpened": "2025-02-23T12:50:58.493Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Userdata.cs",
               "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\messagingsystem\\messagingsystem\\DL\\Userdata.cs",
               "RelativeDocumentMoniker": "messagingsystem\\DL\\Userdata.cs",
               "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\messagingsystem\\messagingsystem\\DL\\Userdata.cs",
               "RelativeToolTip": "messagingsystem\\DL\\Userdata.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T12:50:23.308Z",
               "EditorCaption": ""
@@ -116,13 +116,13 @@
               "RelativeDocumentMoniker": "messagingsystem\\BL\\Mail.cs",
               "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\messagingsystem\\messagingsystem\\BL\\Mail.cs",
               "RelativeToolTip": "messagingsystem\\BL\\Mail.cs",
-              "ViewState": "AgIAABAAAAAANDMzMzPTvxMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T12:49:47.524Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UserUI.cs",
               "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\messagingsystem\\messagingsystem\\UI\\UserUI.cs",
               "RelativeDocumentMoniker": "messagingsystem\\UI\\UserUI.cs",
@@ -130,12 +130,11 @@
               "RelativeToolTip": "messagingsystem\\UI\\UserUI.cs",
               "ViewState": "AgIAAAgAAACgzMzMzMwnwA8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T12:51:07.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T12:51:07.736Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Muser.cs",
               "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\messagingsystem\\messagingsystem\\BL\\Muser.cs",
               "RelativeDocumentMoniker": "messagingsystem\\BL\\Muser.cs",
@@ -143,8 +142,7 @@
               "RelativeToolTip": "messagingsystem\\BL\\Muser.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAvwBgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T12:49:24.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T12:49:24.574Z"
             }
           ]
         }

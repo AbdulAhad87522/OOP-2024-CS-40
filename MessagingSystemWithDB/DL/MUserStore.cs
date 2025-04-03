@@ -16,10 +16,10 @@ namespace MessagingSystem.DL
         {
             
             String constring = "Server = {0}; Uid= {1}; Pwd = {2}; Database = {3}";
-            constring = String.Format(constring, "localhost", "root", "1234", "mailsystem");
+            constring = String.Format(constring, "localhost", "root", "Ahadsaab@263", "usermail");
             MySqlConnection con = new MySqlConnection(constring);
             con.Open();
-            string dml = "insert into musers values('{0}','{1}')";
+            string dml = "insert into signup values('{0}','{1}')";
             dml = String.Format(dml, user.userName, user.password); 
             Console.WriteLine(dml);
             MySqlCommand cmd = new MySqlCommand(dml,con);
@@ -31,16 +31,16 @@ namespace MessagingSystem.DL
         {
             List<MUser> store = new List<MUser>();
             string constring = "Server = {0};Uid={1};Pwd={2};Database= {3}";
-            constring = String.Format(constring, "localhost", "root", "1234", "mailsystem");
+            constring = String.Format(constring, "localhost", "root", "Ahadsaab@263", "usermail");
             MySqlConnection con = new MySqlConnection(constring);
             con.Open();
-            string query = "select * from musers";
+            string query = "select * from signup";
             MySqlCommand cmd = new MySqlCommand(query, con);
             MySqlDataReader reader =  cmd.ExecuteReader();
             while (reader.Read())
             {
-                string name = reader["username"].ToString();
-                string password = reader["password"].ToString();
+                string name = reader["Name"].ToString();
+                string password = reader["Password"].ToString();
                 MUser user = new MUser(name, password);
                 store.Add(user);
             }

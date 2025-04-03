@@ -1,0 +1,7 @@
+E:\university\semester 2\OOPs lab\oop practice\mailsystem2\mailsystem2\obj\Debug\mailsystem2.csproj.AssemblyReference.cache
+E:\university\semester 2\OOPs lab\oop practice\mailsystem2\mailsystem2\obj\Debug\mailsystem2.csproj.CoreCompileInputs.cache
+E:\university\semester 2\OOPs lab\oop practice\mailsystem2\mailsystem2\bin\Debug\mailsystem2.exe.config
+E:\university\semester 2\OOPs lab\oop practice\mailsystem2\mailsystem2\bin\Debug\mailsystem2.exe
+E:\university\semester 2\OOPs lab\oop practice\mailsystem2\mailsystem2\bin\Debug\mailsystem2.pdb
+E:\university\semester 2\OOPs lab\oop practice\mailsystem2\mailsystem2\obj\Debug\mailsystem2.exe
+E:\university\semester 2\OOPs lab\oop practice\mailsystem2\mailsystem2\obj\Debug\mailsystem2.pdb

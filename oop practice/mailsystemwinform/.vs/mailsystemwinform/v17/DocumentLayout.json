@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0CE42F-ED27-4835-817E-5746369D371B}|mailsystemwinform\\mailsystemwinform.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\dl\\muserdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0CE42F-ED27-4835-817E-5746369D371B}|mailsystemwinform\\mailsystemwinform.csproj|solutionrelative:mailsystemwinform\\dl\\muserdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0CE42F-ED27-4835-817E-5746369D371B}|mailsystemwinform\\mailsystemwinform.csproj|E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\ui\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB0CE42F-ED27-4835-817E-5746369D371B}|mailsystemwinform\\mailsystemwinform.csproj|solutionrelative:mailsystemwinform\\ui\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0CE42F-ED27-4835-817E-5746369D371B}|mailsystemwinform\\mailsystemwinform.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\ui\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0CE42F-ED27-4835-817E-5746369D371B}|mailsystemwinform\\mailsystemwinform.csproj|solutionrelative:mailsystemwinform\\ui\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0CE42F-ED27-4835-817E-5746369D371B}|mailsystemwinform\\mailsystemwinform.csproj|E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\ui\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB0CE42F-ED27-4835-817E-5746369D371B}|mailsystemwinform\\mailsystemwinform.csproj|solutionrelative:mailsystemwinform\\ui\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0CE42F-ED27-4835-817E-5746369D371B}|mailsystemwinform\\mailsystemwinform.csproj|E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\ui\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB0CE42F-ED27-4835-817E-5746369D371B}|mailsystemwinform\\mailsystemwinform.csproj|solutionrelative:mailsystemwinform\\ui\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0CE42F-ED27-4835-817E-5746369D371B}|mailsystemwinform\\mailsystemwinform.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0CE42F-ED27-4835-817E-5746369D371B}|mailsystemwinform\\mailsystemwinform.csproj|solutionrelative:mailsystemwinform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0CE42F-ED27-4835-817E-5746369D371B}|mailsystemwinform\\mailsystemwinform.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\ui\\signin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0CE42F-ED27-4835-817E-5746369D371B}|mailsystemwinform\\mailsystemwinform.csproj|solutionrelative:mailsystemwinform\\ui\\signin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0CE42F-ED27-4835-817E-5746369D371B}|mailsystemwinform\\mailsystemwinform.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\ui\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0CE42F-ED27-4835-817E-5746369D371B}|mailsystemwinform\\mailsystemwinform.csproj|solutionrelative:mailsystemwinform\\ui\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0CE42F-ED27-4835-817E-5746369D371B}|mailsystemwinform\\mailsystemwinform.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\ui\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0CE42F-ED27-4835-817E-5746369D371B}|mailsystemwinform\\mailsystemwinform.csproj|solutionrelative:mailsystemwinform\\ui\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0CE42F-ED27-4835-817E-5746369D371B}|mailsystemwinform\\mailsystemwinform.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\dl\\maildl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0CE42F-ED27-4835-817E-5746369D371B}|mailsystemwinform\\mailsystemwinform.csproj|solutionrelative:mailsystemwinform\\dl\\maildl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0CE42F-ED27-4835-817E-5746369D371B}|mailsystemwinform\\mailsystemwinform.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\bl\\muserbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0CE42F-ED27-4835-817E-5746369D371B}|mailsystemwinform\\mailsystemwinform.csproj|solutionrelative:mailsystemwinform\\bl\\muserbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0CE42F-ED27-4835-817E-5746369D371B}|mailsystemwinform\\mailsystemwinform.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\bl\\mailbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0CE42F-ED27-4835-817E-5746369D371B}|mailsystemwinform\\mailsystemwinform.csproj|solutionrelative:mailsystemwinform\\bl\\mailbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0CE42F-ED27-4835-817E-5746369D371B}|mailsystemwinform\\mailsystemwinform.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\ui\\signup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0CE42F-ED27-4835-817E-5746369D371B}|mailsystemwinform\\mailsystemwinform.csproj|solutionrelative:mailsystemwinform\\ui\\signup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0CE42F-ED27-4835-817E-5746369D371B}|mailsystemwinform\\mailsystemwinform.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\mailsystemwinform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB0CE42F-ED27-4835-817E-5746369D371B}|mailsystemwinform\\mailsystemwinform.csproj|solutionrelative:mailsystemwinform\\mailsystemwinform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "signin.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\UI\\signin.cs",
+              "RelativeDocumentMoniker": "mailsystemwinform\\UI\\signin.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\UI\\signin.cs",
+              "RelativeToolTip": "mailsystemwinform\\UI\\signin.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:30:50.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\Program.cs",
+              "RelativeDocumentMoniker": "mailsystemwinform\\Program.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\Program.cs",
+              "RelativeToolTip": "mailsystemwinform\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:28:08.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "signin.cs [Design]",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\UI\\signin.cs",
+              "RelativeDocumentMoniker": "mailsystemwinform\\UI\\signin.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\UI\\signin.cs [Design]",
+              "RelativeToolTip": "mailsystemwinform\\UI\\signin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T06:29:13.958Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "message.cs [Design]",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\UI\\message.cs",
+              "RelativeDocumentMoniker": "mailsystemwinform\\UI\\message.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\UI\\message.cs [Design]",
+              "RelativeToolTip": "mailsystemwinform\\UI\\message.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T06:24:22.511Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "signup.cs [Design]",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\UI\\signup.cs",
+              "RelativeDocumentMoniker": "mailsystemwinform\\UI\\signup.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\UI\\signup.cs [Design]",
+              "RelativeToolTip": "mailsystemwinform\\UI\\signup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T06:22:57.241Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MuserDL.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\DL\\MuserDL.cs",
+              "RelativeDocumentMoniker": "mailsystemwinform\\DL\\MuserDL.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\DL\\MuserDL.cs",
+              "RelativeToolTip": "mailsystemwinform\\DL\\MuserDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:39:59.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "signin.Designer.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\UI\\signin.Designer.cs",
+              "RelativeDocumentMoniker": "mailsystemwinform\\UI\\signin.Designer.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\UI\\signin.Designer.cs",
+              "RelativeToolTip": "mailsystemwinform\\UI\\signin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:30:52.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "message.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\UI\\message.cs",
+              "RelativeDocumentMoniker": "mailsystemwinform\\UI\\message.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\UI\\message.cs",
+              "RelativeToolTip": "mailsystemwinform\\UI\\message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T06:30:36.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "signup.Designer.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\UI\\signup.Designer.cs",
+              "RelativeDocumentMoniker": "mailsystemwinform\\UI\\signup.Designer.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\UI\\signup.Designer.cs",
+              "RelativeToolTip": "mailsystemwinform\\UI\\signup.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:30:33.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "signup.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\UI\\signup.cs",
+              "RelativeDocumentMoniker": "mailsystemwinform\\UI\\signup.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\UI\\signup.cs",
+              "RelativeToolTip": "mailsystemwinform\\UI\\signup.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowBsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T06:16:07.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "mailDL.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\DL\\mailDL.cs",
+              "RelativeDocumentMoniker": "mailsystemwinform\\DL\\mailDL.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\DL\\mailDL.cs",
+              "RelativeToolTip": "mailsystemwinform\\DL\\mailDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:39:29.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "mailBL.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\BL\\mailBL.cs",
+              "RelativeDocumentMoniker": "mailsystemwinform\\BL\\mailBL.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\BL\\mailBL.cs",
+              "RelativeToolTip": "mailsystemwinform\\BL\\mailBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:37:03.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MuserBL.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\BL\\MuserBL.cs",
+              "RelativeDocumentMoniker": "mailsystemwinform\\BL\\MuserBL.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\BL\\MuserBL.cs",
+              "RelativeToolTip": "mailsystemwinform\\BL\\MuserBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:38:57.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "mailsystemwinform.csproj",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\mailsystemwinform.csproj",
+              "RelativeDocumentMoniker": "mailsystemwinform\\mailsystemwinform.csproj",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\mailsystemwinform\\mailsystemwinform\\mailsystemwinform.csproj",
+              "RelativeToolTip": "mailsystemwinform\\mailsystemwinform.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-02T14:35:58.951Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

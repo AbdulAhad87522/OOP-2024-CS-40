@@ -11,7 +11,7 @@ namespace MessagingSystem.UI
         public static Mail getMessageDetail()
         {
             Console.Write("From:");
-            string from = Console.ReadLine();
+            string from = Console.ReadLine();bool 
             Console.Write("To:");
             string to = Console.ReadLine();
             Console.Write("Content:");

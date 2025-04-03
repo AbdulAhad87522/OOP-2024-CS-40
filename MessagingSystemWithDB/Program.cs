@@ -12,7 +12,7 @@ namespace MessagingSystem
         {
             MailStore mailStore = new MailStore();
             MUserStore userStore = new MUserStore();
-
+                
             int option = -1;
             while ((option = menu()) != 5)
             {
@@ -28,7 +28,6 @@ namespace MessagingSystem
                     //Code that shows all Users
                     List<MUser> users = userStore.getAll();
                     MUserUI.showAll(users);
-
                     waitKey();
                 }
 

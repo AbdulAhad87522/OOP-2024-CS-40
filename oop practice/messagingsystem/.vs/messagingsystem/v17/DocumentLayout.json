@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "E:\\university\\semester 2\\OOPs lab\\oop practice\\messagingsystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7275FA1E-DC57-4DD1-ADCC-23B72A25E8E3}|messagingsystem\\messagingsystem.csproj|E:\\university\\semester 2\\OOPs lab\\oop practice\\messagingsystem\\messagingsystem\\ui\\mailui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7275FA1E-DC57-4DD1-ADCC-23B72A25E8E3}|messagingsystem\\messagingsystem.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\messagingsystem\\messagingsystem\\ui\\mailui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7275FA1E-DC57-4DD1-ADCC-23B72A25E8E3}|messagingsystem\\messagingsystem.csproj|solutionrelative:messagingsystem\\ui\\mailui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,7 +27,7 @@
       "RelativeMoniker": "D:0:0:{7275FA1E-DC57-4DD1-ADCC-23B72A25E8E3}|messagingsystem\\messagingsystem.csproj|solutionrelative:messagingsystem\\dl\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7275FA1E-DC57-4DD1-ADCC-23B72A25E8E3}|messagingsystem\\messagingsystem.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\messagingsystem\\messagingsystem\\dl\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7275FA1E-DC57-4DD1-ADCC-23B72A25E8E3}|messagingsystem\\messagingsystem.csproj|E:\\university\\semester 2\\OOPs lab\\oop practice\\messagingsystem\\messagingsystem\\dl\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7275FA1E-DC57-4DD1-ADCC-23B72A25E8E3}|messagingsystem\\messagingsystem.csproj|solutionrelative:messagingsystem\\dl\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -54,8 +54,7 @@
               "RelativeToolTip": "messagingsystem\\Program.cs",
               "ViewState": "AgIAABIAAAAAMjMzMzMqwCcAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T12:47:17.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T12:47:17.592Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "messagingsystem\\DL\\Database.cs",
               "ViewState": "AgIAAAEAAAAgMzMzM7MiwBQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T09:36:50.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T09:36:50.812Z"
             },
             {
               "$type": "Document",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "messagingsystem\\DL\\Maildata.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T12:50:41.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T12:50:41.555Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "messagingsystem\\DL\\Userdata.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T12:50:23.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T12:50:23.308Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "messagingsystem\\BL\\Mail.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T12:49:47.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T12:49:47.524Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "messagingsystem\\UI\\UserUI.cs",
               "ViewState": "AgIAAAgAAACgzMzMzMwnwA8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T12:51:07.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T12:51:07.736Z"
             },
             {
               "$type": "Document",
@@ -145,8 +139,7 @@
               "RelativeToolTip": "messagingsystem\\BL\\Muser.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAvwBgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T12:49:24.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T12:49:24.574Z"
             }
           ]
         }
