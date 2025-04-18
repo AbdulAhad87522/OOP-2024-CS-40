@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\university\\semester 2\\OOPs lab\\week 8\\challenge4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6391B2-CB65-4CAA-BF27-AF6803EA13A6}|challenge4\\challenge4.csproj|e:\\university\\semester 2\\oops lab\\week 8\\challenge4\\challenge4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6391B2-CB65-4CAA-BF27-AF6803EA13A6}|challenge4\\challenge4.csproj|solutionrelative:challenge4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6391B2-CB65-4CAA-BF27-AF6803EA13A6}|challenge4\\challenge4.csproj|e:\\university\\semester 2\\oops lab\\week 8\\challenge4\\challenge4\\teacheracc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6391B2-CB65-4CAA-BF27-AF6803EA13A6}|challenge4\\challenge4.csproj|solutionrelative:challenge4\\teacheracc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6391B2-CB65-4CAA-BF27-AF6803EA13A6}|challenge4\\challenge4.csproj|e:\\university\\semester 2\\oops lab\\week 8\\challenge4\\challenge4\\studentacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6391B2-CB65-4CAA-BF27-AF6803EA13A6}|challenge4\\challenge4.csproj|solutionrelative:challenge4\\studentacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6391B2-CB65-4CAA-BF27-AF6803EA13A6}|challenge4\\challenge4.csproj|e:\\university\\semester 2\\oops lab\\week 8\\challenge4\\challenge4\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6391B2-CB65-4CAA-BF27-AF6803EA13A6}|challenge4\\challenge4.csproj|solutionrelative:challenge4\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teacheracc.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\week 8\\challenge4\\challenge4\\Teacheracc.cs",
+              "RelativeDocumentMoniker": "challenge4\\Teacheracc.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\week 8\\challenge4\\challenge4\\Teacheracc.cs*",
+              "RelativeToolTip": "challenge4\\Teacheracc.cs*",
+              "ViewState": "AgIAAAcAAACAZWZmZmYYwCAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:06:47.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Studentacc.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\week 8\\challenge4\\challenge4\\Studentacc.cs",
+              "RelativeDocumentMoniker": "challenge4\\Studentacc.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\week 8\\challenge4\\challenge4\\Studentacc.cs*",
+              "RelativeToolTip": "challenge4\\Studentacc.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T05:26:31.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "account.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\week 8\\challenge4\\challenge4\\account.cs",
+              "RelativeDocumentMoniker": "challenge4\\account.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\week 8\\challenge4\\challenge4\\account.cs*",
+              "RelativeToolTip": "challenge4\\account.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T05:23:33.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\week 8\\challenge4\\challenge4\\Program.cs",
+              "RelativeDocumentMoniker": "challenge4\\Program.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\week 8\\challenge4\\challenge4\\Program.cs*",
+              "RelativeToolTip": "challenge4\\Program.cs*",
+              "ViewState": "AgIAAAsAAAAAAQAAAAAgwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T05:23:04.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

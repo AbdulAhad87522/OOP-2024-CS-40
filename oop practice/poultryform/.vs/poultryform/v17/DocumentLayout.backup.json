@@ -1,0 +1,403 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\poultryform\\poultryform\\ui\\allsellers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|solutionrelative:poultryform\\ui\\allsellers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\poultryform\\poultryform\\ui\\allsellers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|solutionrelative:poultryform\\ui\\allsellers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\poultryform\\poultryform\\ui\\allsellers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|solutionrelative:poultryform\\ui\\allsellers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\poultryform\\poultryform\\ui\\newseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|solutionrelative:poultryform\\ui\\newseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\poultryform\\poultryform\\ui\\newseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|solutionrelative:poultryform\\ui\\newseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\ui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|solutionrelative:poultryform\\ui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\poultryform\\poultryform\\ui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|solutionrelative:poultryform\\ui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\poultryform\\poultryform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|solutionrelative:poultryform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\poultryform\\poultryform\\ui\\sell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|solutionrelative:poultryform\\ui\\sell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\poultryform\\poultryform\\ui\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|solutionrelative:poultryform\\ui\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\poultryform\\poultryform\\dl\\sellerdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|solutionrelative:poultryform\\dl\\sellerdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\poultryform\\poultryform\\bl\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|solutionrelative:poultryform\\bl\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\poultryform\\poultryform\\bl\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|solutionrelative:poultryform\\bl\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\poultryform\\poultryform\\ui\\sell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|solutionrelative:poultryform\\ui\\sell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\poultryform\\poultryform\\bl\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|solutionrelative:poultryform\\bl\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\poultryform\\poultryform\\ui\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|solutionrelative:poultryform\\ui\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\ui\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|solutionrelative:poultryform\\ui\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\ui\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|solutionrelative:poultryform\\ui\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\poultryform\\poultryform\\ui\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|solutionrelative:poultryform\\ui\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\poultryform\\poultryform\\ui\\signin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|solutionrelative:poultryform\\ui\\signin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\poultryform\\poultryform\\ui\\signup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|solutionrelative:poultryform\\ui\\signup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\poultryform\\poultryform\\dl\\usersdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|solutionrelative:poultryform\\dl\\usersdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|e:\\university\\semester 2\\oops lab\\oop practice\\poultryform\\poultryform\\poultryform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5758186B-A81E-4227-9688-0FF2F53B1026}|poultryform\\poultryform.csproj|solutionrelative:poultryform\\poultryform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "sell.cs [Design]",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\sell.cs",
+              "RelativeDocumentMoniker": "poultryform\\UI\\sell.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\sell.cs [Design]",
+              "RelativeToolTip": "poultryform\\UI\\sell.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:11:11.687Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Allsellers.cs [Design]",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\Allsellers.cs",
+              "RelativeDocumentMoniker": "poultryform\\UI\\Allsellers.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\Allsellers.cs [Design]",
+              "RelativeToolTip": "poultryform\\UI\\Allsellers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T19:32:39.426Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Allsellers.Designer.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\Allsellers.Designer.cs",
+              "RelativeDocumentMoniker": "poultryform\\UI\\Allsellers.Designer.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\Allsellers.Designer.cs",
+              "RelativeToolTip": "poultryform\\UI\\Allsellers.Designer.cs",
+              "ViewState": "AgIAACwAAAAAZmZmZmYgwH0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T19:18:53.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\Dashboard.cs",
+              "RelativeDocumentMoniker": "poultryform\\UI\\Dashboard.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\Dashboard.cs [Design]",
+              "RelativeToolTip": "poultryform\\UI\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:36:27.814Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Allsellers.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\Allsellers.cs",
+              "RelativeDocumentMoniker": "poultryform\\UI\\Allsellers.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\Allsellers.cs",
+              "RelativeToolTip": "poultryform\\UI\\Allsellers.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T18:36:48.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Newseller.cs [Design]",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\Newseller.cs",
+              "RelativeDocumentMoniker": "poultryform\\UI\\Newseller.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\Newseller.cs [Design]",
+              "RelativeToolTip": "poultryform\\UI\\Newseller.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:11:07.084Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Newseller.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\Newseller.cs",
+              "RelativeDocumentMoniker": "poultryform\\UI\\Newseller.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\Newseller.cs",
+              "RelativeToolTip": "poultryform\\UI\\Newseller.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwDYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:13:15.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\Dashboard.cs",
+              "RelativeDocumentMoniker": "poultryform\\UI\\Dashboard.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\Dashboard.cs",
+              "RelativeToolTip": "poultryform\\UI\\Dashboard.cs",
+              "ViewState": "AgIAABcAAAAAmJmZmZnJvx8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:50:15.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\Program.cs",
+              "RelativeDocumentMoniker": "poultryform\\Program.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\Program.cs",
+              "RelativeToolTip": "poultryform\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T05:56:46.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Inventory.cs [Design]",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\Inventory.cs",
+              "RelativeDocumentMoniker": "poultryform\\UI\\Inventory.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\Inventory.cs [Design]",
+              "RelativeToolTip": "poultryform\\UI\\Inventory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:08:46.579Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SellerDL.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\DL\\SellerDL.cs",
+              "RelativeDocumentMoniker": "poultryform\\DL\\SellerDL.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\DL\\SellerDL.cs",
+              "RelativeToolTip": "poultryform\\DL\\SellerDL.cs",
+              "ViewState": "AgIAAAsAAACAnJmZmZn5vxsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T14:46:21.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\BL\\Seller.cs",
+              "RelativeDocumentMoniker": "poultryform\\BL\\Seller.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\BL\\Seller.cs",
+              "RelativeToolTip": "poultryform\\BL\\Seller.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T14:33:31.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\BL\\Inventory.cs",
+              "RelativeDocumentMoniker": "poultryform\\BL\\Inventory.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\BL\\Inventory.cs",
+              "RelativeToolTip": "poultryform\\BL\\Inventory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvx4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:07:54.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "sell.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\sell.cs",
+              "RelativeDocumentMoniker": "poultryform\\UI\\sell.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\sell.cs",
+              "RelativeToolTip": "poultryform\\UI\\sell.cs",
+              "ViewState": "AgIAAEEAAACAOTMzMzMjwFAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:46:43.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Users.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\BL\\Users.cs",
+              "RelativeDocumentMoniker": "poultryform\\BL\\Users.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\BL\\Users.cs",
+              "RelativeToolTip": "poultryform\\BL\\Users.cs",
+              "ViewState": "AgIAAAcAAAAANTMzMzMrwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:04:04.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Signup.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\Signup.cs",
+              "RelativeDocumentMoniker": "poultryform\\UI\\Signup.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\Signup.cs",
+              "RelativeToolTip": "poultryform\\UI\\Signup.cs",
+              "ViewState": "AgIAAB4AAAAAaGZmZmYhwDEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:15:58.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Signup.cs [Design]",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\Signup.cs",
+              "RelativeDocumentMoniker": "poultryform\\UI\\Signup.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\Signup.cs [Design]",
+              "RelativeToolTip": "poultryform\\UI\\Signup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:15:03.514Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "signin.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\signin.cs",
+              "RelativeDocumentMoniker": "poultryform\\UI\\signin.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\signin.cs",
+              "RelativeToolTip": "poultryform\\UI\\signin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:14:15.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "signin.cs [Design]",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\signin.cs",
+              "RelativeDocumentMoniker": "poultryform\\UI\\signin.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\signin.cs [Design]",
+              "RelativeToolTip": "poultryform\\UI\\signin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:32:21.348Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "signin.Designer.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\signin.Designer.cs",
+              "RelativeDocumentMoniker": "poultryform\\UI\\signin.Designer.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\signin.Designer.cs",
+              "RelativeToolTip": "poultryform\\UI\\signin.Designer.cs",
+              "ViewState": "AgIAAEwAAAAAQJqZmZm5vzEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:12:37.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Signup.Designer.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\Signup.Designer.cs",
+              "RelativeDocumentMoniker": "poultryform\\UI\\Signup.Designer.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\UI\\Signup.Designer.cs",
+              "RelativeToolTip": "poultryform\\UI\\Signup.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:15:37.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UsersDL.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\DL\\UsersDL.cs",
+              "RelativeDocumentMoniker": "poultryform\\DL\\UsersDL.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\DL\\UsersDL.cs",
+              "RelativeToolTip": "poultryform\\DL\\UsersDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:06:59.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "poultryform.csproj",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\poultryform.csproj",
+              "RelativeDocumentMoniker": "poultryform\\poultryform.csproj",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\oop practice\\poultryform\\poultryform\\poultryform.csproj",
+              "RelativeToolTip": "poultryform\\poultryform.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-13T14:30:59.805Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

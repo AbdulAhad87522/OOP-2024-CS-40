@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\university\\semester 2\\OOPs lab\\week 8\\challenge3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B00BC3-A7DF-44A0-9F55-86A85F6BDA16}|challenge3\\challenge3.csproj|E:\\university\\semester 2\\OOPs lab\\week 8\\challenge3\\challenge3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B00BC3-A7DF-44A0-9F55-86A85F6BDA16}|challenge3\\challenge3.csproj|solutionrelative:challenge3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B00BC3-A7DF-44A0-9F55-86A85F6BDA16}|challenge3\\challenge3.csproj|e:\\university\\semester 2\\oops lab\\week 8\\challenge3\\challenge3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B00BC3-A7DF-44A0-9F55-86A85F6BDA16}|challenge3\\challenge3.csproj|solutionrelative:challenge3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B00BC3-A7DF-44A0-9F55-86A85F6BDA16}|challenge3\\challenge3.csproj|E:\\university\\semester 2\\OOPs lab\\week 8\\challenge3\\challenge3\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B00BC3-A7DF-44A0-9F55-86A85F6BDA16}|challenge3\\challenge3.csproj|solutionrelative:challenge3\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B00BC3-A7DF-44A0-9F55-86A85F6BDA16}|challenge3\\challenge3.csproj|E:\\university\\semester 2\\OOPs lab\\week 8\\challenge3\\challenge3\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B00BC3-A7DF-44A0-9F55-86A85F6BDA16}|challenge3\\challenge3.csproj|solutionrelative:challenge3\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\week 8\\challenge3\\challenge3\\Staff.cs",
+              "RelativeDocumentMoniker": "challenge3\\Staff.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\week 8\\challenge3\\challenge3\\Staff.cs*",
+              "RelativeToolTip": "challenge3\\Staff.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:46:43.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\week 8\\challenge3\\challenge3\\Student.cs",
+              "RelativeDocumentMoniker": "challenge3\\Student.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\week 8\\challenge3\\challenge3\\Student.cs*",
+              "RelativeToolTip": "challenge3\\Student.cs*",
+              "ViewState": "AgIAABMAAABgzszMzMwmwBsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:46:28.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\week 8\\challenge3\\challenge3\\Person.cs",
+              "RelativeDocumentMoniker": "challenge3\\Person.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\week 8\\challenge3\\challenge3\\Person.cs*",
+              "RelativeToolTip": "challenge3\\Person.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:46:11.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\week 8\\challenge3\\challenge3\\Program.cs",
+              "RelativeDocumentMoniker": "challenge3\\Program.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\week 8\\challenge3\\challenge3\\Program.cs*",
+              "RelativeToolTip": "challenge3\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:10:26.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
