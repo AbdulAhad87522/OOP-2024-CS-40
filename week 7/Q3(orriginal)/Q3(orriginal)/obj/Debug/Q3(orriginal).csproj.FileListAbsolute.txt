@@ -1,0 +1,7 @@
+E:\university\semester 2\OOPs lab\week 7\Q3(orriginal)\Q3(orriginal)\bin\Debug\Q3(orriginal).exe.config
+E:\university\semester 2\OOPs lab\week 7\Q3(orriginal)\Q3(orriginal)\bin\Debug\Q3(orriginal).exe
+E:\university\semester 2\OOPs lab\week 7\Q3(orriginal)\Q3(orriginal)\bin\Debug\Q3(orriginal).pdb
+E:\university\semester 2\OOPs lab\week 7\Q3(orriginal)\Q3(orriginal)\obj\Debug\Q3(orriginal).csproj.AssemblyReference.cache
+E:\university\semester 2\OOPs lab\week 7\Q3(orriginal)\Q3(orriginal)\obj\Debug\Q3(orriginal).csproj.CoreCompileInputs.cache
+E:\university\semester 2\OOPs lab\week 7\Q3(orriginal)\Q3(orriginal)\obj\Debug\Q3(orriginal).exe
+E:\university\semester 2\OOPs lab\week 7\Q3(orriginal)\Q3(orriginal)\obj\Debug\Q3(orriginal).pdb

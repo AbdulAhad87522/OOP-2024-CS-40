@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\university\\semester 2\\OOPs lab\\week 7\\Q2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D56F2C-190C-414D-B5C8-E1CE27E15519}|Q2\\Q2.csproj|E:\\university\\semester 2\\OOPs lab\\week 7\\Q2\\q2\\songs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D56F2C-190C-414D-B5C8-E1CE27E15519}|Q2\\Q2.csproj|solutionrelative:q2\\songs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D56F2C-190C-414D-B5C8-E1CE27E15519}|Q2\\Q2.csproj|e:\\university\\semester 2\\oops lab\\week 7\\q2\\q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D56F2C-190C-414D-B5C8-E1CE27E15519}|Q2\\Q2.csproj|solutionrelative:q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D56F2C-190C-414D-B5C8-E1CE27E15519}|Q2\\Q2.csproj|E:\\university\\semester 2\\OOPs lab\\week 7\\Q2\\q2\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D56F2C-190C-414D-B5C8-E1CE27E15519}|Q2\\Q2.csproj|solutionrelative:q2\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Playlist.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\week 7\\Q2\\Q2\\Playlist.cs",
+              "RelativeDocumentMoniker": "Q2\\Playlist.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\week 7\\Q2\\Q2\\Playlist.cs",
+              "RelativeToolTip": "Q2\\Playlist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:23:30.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Songs.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\week 7\\Q2\\Q2\\Songs.cs",
+              "RelativeDocumentMoniker": "Q2\\Songs.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\week 7\\Q2\\Q2\\Songs.cs",
+              "RelativeToolTip": "Q2\\Songs.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:23:04.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\university\\semester 2\\OOPs lab\\week 7\\Q2\\Q2\\Program.cs",
+              "RelativeDocumentMoniker": "Q2\\Program.cs",
+              "ToolTip": "E:\\university\\semester 2\\OOPs lab\\week 7\\Q2\\Q2\\Program.cs",
+              "RelativeToolTip": "Q2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:18:39.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

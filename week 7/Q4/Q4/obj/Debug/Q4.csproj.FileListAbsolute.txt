@@ -1,0 +1,7 @@
+E:\university\semester 2\OOPs lab\week 7\Q4\Q4\bin\Debug\Q4.exe.config
+E:\university\semester 2\OOPs lab\week 7\Q4\Q4\bin\Debug\Q4.exe
+E:\university\semester 2\OOPs lab\week 7\Q4\Q4\bin\Debug\Q4.pdb
+E:\university\semester 2\OOPs lab\week 7\Q4\Q4\obj\Debug\Q4.csproj.AssemblyReference.cache
+E:\university\semester 2\OOPs lab\week 7\Q4\Q4\obj\Debug\Q4.csproj.CoreCompileInputs.cache
+E:\university\semester 2\OOPs lab\week 7\Q4\Q4\obj\Debug\Q4.exe
+E:\university\semester 2\OOPs lab\week 7\Q4\Q4\obj\Debug\Q4.pdb
