@@ -8,24 +8,24 @@ namespace Challenge5
 {
     internal class Cars
     {
-        private string model;
+        private int model;
         private string color;
         private double price;
         public Cars()
         {
 
         }
-        public Cars(string model, string color, double price)
+        public Cars(int model, string color, double price)
         {
             this.model = model;
             this.color = color;
             this.price = price;
         }
-        public void setmodel(string model)
+        public void setmodel(int model)
         {
             this.model = model;
         }
-        public string getmodel()
+        public int getmodel()
         {
             return this.model;
         }

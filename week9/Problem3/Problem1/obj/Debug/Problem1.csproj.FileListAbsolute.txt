@@ -1,0 +1,7 @@
+E:\university\semester 2\OOPs lab\week9\Problem1\Problem1\bin\Debug\Problem1.exe.config
+E:\university\semester 2\OOPs lab\week9\Problem1\Problem1\bin\Debug\Problem1.exe
+E:\university\semester 2\OOPs lab\week9\Problem1\Problem1\bin\Debug\Problem1.pdb
+E:\university\semester 2\OOPs lab\week9\Problem1\Problem1\obj\Debug\Problem1.csproj.AssemblyReference.cache
+E:\university\semester 2\OOPs lab\week9\Problem1\Problem1\obj\Debug\Problem1.csproj.CoreCompileInputs.cache
+E:\university\semester 2\OOPs lab\week9\Problem1\Problem1\obj\Debug\Problem1.exe
+E:\university\semester 2\OOPs lab\week9\Problem1\Problem1\obj\Debug\Problem1.pdb
